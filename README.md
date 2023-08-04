@@ -1,7 +1,11 @@
-### Hi there 👋
+### ✨ Salut, moi c’est Nolwen !✨
+Apprenante **développeuse d'applications** à ADA Tech School, **designer** de formation.
+
+🖼️ [mon portfolio] ("https://portfolio-nolwenmaj.vercel.app/")
+
 
 <!--
-**NolwenMaj/NolwenMaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NolwenMaj/NolwenMaj** is a_special_ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
