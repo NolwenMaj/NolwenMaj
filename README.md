@@ -1,7 +1,7 @@
 ### ✨ Salut, moi c’est Nolwen !✨
-Apprenante **développeuse d'applications** à ADA Tech School, **designer** de formation.
+Apprenante **développeuse d'applications** à ADA Tech School, **designer** de formation. 
 
-🖼️ [mon portfolio](https://portfolio-nolwenmaj.vercel.app/)
+<!--🖼️ [mon portfolio](https://portfolio-nolwenmaj.vercel.app/)--!>
 
 
 <!--
